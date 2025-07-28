@@ -34,10 +34,16 @@
 </p>
 <hr>
 <Br>
-<h1>Some of my Projects! 🎨</h1>
+<h1>Alguno de mis Proyectos! 🎨</h1>
 <Br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebastian25gb&repo=nubla-siem)](https://github.com/Sebastian25gb/nubla-siem)
 
 <Br>
 <hr>
+<Br>
+    <h1>Estadísticas de GitHub!🛠️</h1>
+<Br>
+
+[![](https://github-readme-stats.vercel.app/api?username=Sebastian25gb&show icons=true&theme=tokyonight&hide border=true&locale=en)](https://github.com/Sebastian25gb)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Sebastian25gb&theme=material-palenight)](https://github.com/Sebastian25gb)
