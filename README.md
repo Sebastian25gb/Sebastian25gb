@@ -45,5 +45,25 @@
     <h1>Estadísticas de GitHub!🛠️</h1>
 <Br>
 
-[![](https://github-readme-stats.vercel.app/api?username=Sebastian25gb&show icons=true&theme=tokyonight&hide border=true&locale=en)](https://github.com/Sebastian25gb)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Sebastian25gb&theme=material-palenight)](https://github.com/Sebastian25gb)
+<!--[![](https://github-readme-stats.vercel.app/api?username=Sebastian25gb&show icons=true&theme=tokyonight&hide border=true&locale=en)](https://github.com/Sebastian25gb)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Sebastian25gb&theme=material-palenight)](https://github.com/Sebastian25gb)-->
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sebastian25gb&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sebastian25gb&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+<!--- stats (end) -->
