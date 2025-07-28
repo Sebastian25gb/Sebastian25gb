@@ -9,10 +9,9 @@
 - 🏫: Soy un Ingeniero de Software graduado de la Universidad Surcolombiana.
 - 🔭: Actualmente trabajo en un pequeño proyecto dedicado a Ciberseguridad.
 - 🌱: En estos momentos estoy aprendiendo Ciberseguridad y Desarrollo Web con TypeScript. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🤔: Apasionado por crear soluciones funcionales y escalables! 😅
+- 💬: Estoy enfocado en perfeccionar mi manejo de Python y mejorar mis habilidades Full Stack. 📊📈🤖🧠
+- ⚡  Fun fact: Hago senderismo, voy a cine y entreno en el gimnasio! ⛰🎥🏋️‍♀️
   
 <hr>
 <Br>
@@ -36,9 +35,11 @@
 <Br>
 <h1>Alguno de mis Proyectos! 🎨</h1>
 <Br>
+<div align="center">
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebastian25gb&repo=nubla-siem)](https://github.com/Sebastian25gb/nubla-siem)
 
+</div>
 <Br>
 <hr>
 <Br>
