@@ -24,7 +24,7 @@
 <Br>
 <hr>
 <Br>
-    <h1>Tecnologías que Uso!🛠️</h1>
+    <h1 align="center">Tecnologías que Uso!🛠️</h1>
 <Br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 </p>
 <hr>
 <Br>
-<h1>Alguno de mis Proyectos! 🎨</h1>
+<h1 align="center">Alguno de mis Proyectos! 🎨</h1>
 <Br>
 <div align="center">
   
@@ -43,7 +43,7 @@
 <Br>
 <hr>
 <Br>
-    <h1>Estadísticas de GitHub!🛠️</h1>
+    <h1 align="center">Estadísticas de GitHub!🛠️</h1>
 <Br>
 
 <!--[![](https://github-readme-stats.vercel.app/api?username=Sebastian25gb&show icons=true&theme=tokyonight&hide border=true&locale=en)](https://github.com/Sebastian25gb)
